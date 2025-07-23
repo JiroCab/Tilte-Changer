@@ -1,0 +1,9 @@
+name: "title-changer"
+displayName: "title Changer"
+author: "RushieWashie"
+description: "Changes Mindustry's title and appends the player name for various reasons like win cap\n RESTAERT UPDATE THE TITLE"
+subtitle:"Hope it helps!"
+version: "1.0"
+minGameVersion: "136"
+dependencies: [ ]
+hidden: true

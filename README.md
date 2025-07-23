@@ -1,2 +1,2 @@
-# Tilte-Changer
-Changes Mindustry's tiltle and appends the player name for various reasons like win cap
+Someone asked me to make this so here we are,
+just edit the js if you want it to be some thing else but your player name
